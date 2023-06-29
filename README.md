@@ -34,7 +34,7 @@ The EDA phase involved gaining insights into the 'PBS Space Time' YouTube channe
 # Project limitation:
 - Sentiment Analysis could not be performed because random comments from all the videos were extracted which might not have been an accurate representation of all comments
 - There are many other factors that haven't been taken into analysis, including the marketing strategy of the creators and many random effects that would affect how successful a video is
-- 
+  
 # References/ Resources used:
 [1] Youtube API. Available at https://developers.google.com/youtube/v3
 
